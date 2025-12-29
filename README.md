@@ -20,7 +20,6 @@ Analytical, organized, and results-oriented profile, with strong interest in **q
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigohsilvaa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-hipolito-silva/)
 
-
 ---
 
 ### 🛠 Skills
@@ -39,43 +38,29 @@ Analytical, organized, and results-oriented profile, with strong interest in **q
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
 ---
 
-###🚀** Featured Projects**
-Full Stack Helpdesk System
+### 🚀 Featured Projects
 
-Tech: ASP.NET Core, React, PostgreSQL, JWT, SignalR
+#### **Full Stack Helpdesk System**
+**Tech:** ASP.NET Core, React, PostgreSQL, JWT, SignalR  
+**Features:** Role-based authentication, ticket CRUD, dashboard with metrics, automated notifications  
+**Impact:** Streamlined support process, reduced manual handling, enhanced user experience  
 
-Features: Role-based authentication, ticket CRUD, dashboard with metrics, automated notifications
+#### **Secure REST API**
+**Tech:** ASP.NET Core, Swagger, JWT  
+**Features:** Modular, production-ready template, secure endpoints  
+**Impact:** Reusable architecture for multiple projects, ensures security and scalability  
 
-Impact: Streamlined support process, reduced manual handling, enhanced user experience
+#### **Full Stack Web App**
+**Tech:** ASP.NET Core + React + PostgreSQL  
+**Features:** End-to-end web application with authentication, REST API integration, and dynamic UI components  
 
-Secure REST API
+#### **API REST#### **API REST with JWT Authentication**
+**Tech:** ASP.NET Core, JWT, Role-based access  
+**Features:** Secure endpoints, token-based authentication, role management, Swagger documentation  
 
-Tech: ASP.NET Core, Swagger, JWT
-
-Features: Modular, production-ready template, secure endpoints
-
-Impact: Reusable architecture for multiple projects, ensures security and scalability
-
-Full Stack Web App
-
-Tech: ASP.NET Core + React + PostgreSQL
-
-Features: End-to-end web application with authentication, REST API integration, and dynamic UI components
-
-API REST with JWT Authentication
-
-Tech: ASP.NET Core, JWT, Role-based access
-
-Features: Secure endpoints, token-based authentication, role management, Swagger documentation
----------------
-
-
-**Java CRUD Application**
-
-Tech: Java,  PostgreSQL (dependendo do seu setup), Swing / Console
-
-Features: Complete CRUD functionality for user registration, including create, read, update, and delete operations.
-
-Impact: Demonstrates strong understanding of object-oriented programming, database integration, and data management; useful for learning enterprise-level backend concepts.
+#### **Java CRUD Application**
+**Tech:** Java, PostgreSQL, Swing / Console  
+**Features:** Complete CRUD functionality for user registration, including create, read, update, and delete operations  
