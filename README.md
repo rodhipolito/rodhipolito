@@ -37,9 +37,45 @@ Analytical, organized, and results-oriented profile, with strong interest in **q
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ---
 
-### 🚀 Featured Projects
-- **Full Stack Web App**: ASP.NET Core + React + PostgreSQL
-- **API REST with JWT Authentication- **API REST with JWT Authentication**: Secure endpoints and role-based access
+###🚀** Featured Projects**
+Full Stack Helpdesk System
+
+Tech: ASP.NET Core, React, PostgreSQL, JWT, SignalR
+
+Features: Role-based authentication, ticket CRUD, dashboard with metrics, automated notifications
+
+Impact: Streamlined support process, reduced manual handling, enhanced user experience
+
+Secure REST API
+
+Tech: ASP.NET Core, Swagger, JWT
+
+Features: Modular, production-ready template, secure endpoints
+
+Impact: Reusable architecture for multiple projects, ensures security and scalability
+
+Full Stack Web App
+
+Tech: ASP.NET Core + React + PostgreSQL
+
+Features: End-to-end web application with authentication, REST API integration, and dynamic UI components
+
+API REST with JWT Authentication
+
+Tech: ASP.NET Core, JWT, Role-based access
+
+Features: Secure endpoints, token-based authentication, role management, Swagger documentation
+---------------
+
+
+**Java CRUD Application**
+
+Tech: Java,  PostgreSQL (dependendo do seu setup), Swing / Console
+
+Features: Complete CRUD functionality for user registration, including create, read, update, and delete operations.
+
+Impact: Demonstrates strong understanding of object-oriented programming, database integration, and data management; useful for learning enterprise-level backend concepts.
