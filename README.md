@@ -93,19 +93,6 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="./profile/stats.svg" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rodhipolito&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
-
-<p align="center">
-  <img src="./profile/top-langs.svg" />
-</p>
-
-<br/>
-
 ## 📫 Contact
 
 <p align="center">
