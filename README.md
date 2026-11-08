@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  Data &amp; Analytics Engineer with 3+ years of hands-on experience in SQL Server, ETL pipelines,<br/>
-  dimensional modeling, and Power BI / DAX — primarily in the telecommunications sector.<br/>
+  Data &amp; Analytics Engineer based in Lisbon, Portugal, with 4+ years of hands-on experience in SQL Server,<br/>
+  ETL pipelines, dimensional modeling and Power BI / DAX, mostly in the telecommunications sector.<br/>
   I build reliable, well-structured data pipelines and analytics solutions, and I'm currently<br/>
   deepening my stack with <b>dbt</b> for versioned transformations and data quality testing.
 </p>
@@ -27,6 +27,8 @@
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
@@ -59,6 +61,24 @@
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <h3>🏠 Housing in Portugal — Bank Appraisals (Power BI)</h3>
+      <p>Power BI report on the median value per m² that banks assign to homes in Portugal's 308 municipalities, using INE open data from January 2024 to September 2026. Star-schema model, DAX measures with a minimum-sample rule, year-on-year municipal ranking and a custom shape map built from official boundaries. Also rebuilt as a bilingual (EN/PT) interactive web dashboard.</p>
+      <a href="https://github.com/rodhipolito/habitacao-pt"><img src="https://raw.githubusercontent.com/rodhipolito/habitacao-pt/main/docs/img/powerbi-ranking.png" alt="Power BI municipal ranking page" width="100%" /></a>
+      <p>
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+        <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+        <img src="https://img.shields.io/badge/Power_Query-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+        <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3&logoColor=white" />
+        <img src="https://img.shields.io/badge/INE_Open_Data-2E9EF7?style=flat-square" />
+      </p>
+      <p>
+        <a href="https://habitacao-pt.vercel.app/#en"><img src="https://img.shields.io/badge/Live_Dashboard-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+        <a href="https://github.com/rodhipolito/habitacao-pt"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>⛽ Fuel Prices — World vs Asia (2015–2026)</h3>
       <p>Exploratory data analysis and interactive dashboard comparing global and Asian fuel prices across a 10-year period, with trend visualization, subsidy tracking, and crude oil correlation analysis.</p>
@@ -90,6 +110,8 @@
     </td>
   </tr>
 </table>
+
+<p align="center"><a href="https://rodrigoportfolios.vercel.app/#projetos">See all projects on my portfolio →</a></p>
 
 <br/>
 
