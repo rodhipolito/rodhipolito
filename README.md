@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Data &amp; Analytics Engineer based in Lisbon, Portugal, with 4+ years of hands-on experience in SQL Server,<br/>
+  Data &amp; Analytics Engineer with 4+ years of hands-on experience in SQL Server,<br/>
   ETL pipelines, dimensional modeling and Power BI / DAX, mostly in the telecommunications sector.<br/>
   I build reliable, well-structured data pipelines and analytics solutions, and I'm currently<br/>
   deepening my stack with <b>dbt</b> for versioned transformations and data quality testing.
