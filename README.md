@@ -1,14 +1,9 @@
 <h1 align="center">Hi, I'm Rodrigo Silva 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=560&lines=Data+%26+Analytics+Engineer;SQL+Server+%7C+ETL+%7C+Dimensional+Modeling;Power+BI+%2F+DAX+%7C+Telecom+Sector;Currently+diving+into+dbt" alt="Typing SVG" />
-</p>
-
-<p align="center">
   Data &amp; Analytics Engineer with 4+ years of hands-on experience in SQL Server,<br/>
   ETL pipelines, dimensional modeling and Power BI / DAX, mostly in the telecommunications sector.<br/>
-  I build reliable, well-structured data pipelines and analytics solutions, and I'm currently<br/>
-  deepening my stack with <b>dbt</b> for versioned transformations and data quality testing.
+  I build reliable, well-structured data pipelines and analytics solutions.
 </p>
 
 <p align="center">📍 Portugal · Open to remote or hybrid roles</p>
@@ -40,8 +35,6 @@
 <p align="center"><b>🔧 Backend &amp; Development</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -52,7 +45,6 @@
 
 <p align="center"><b>☁️ Cloud &amp; Tools</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 </p>
@@ -99,7 +91,6 @@
       <h3>💸 Financial Transaction API</h3>
       <p>REST API for financial transaction management with JWT authentication, multi-account support, deposits, withdrawals, transfers, audit logs, and role-based authorization.</p>
       <p>
-        <img src="https://img.shields.io/badge/ASP.NET_Core_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens" />
         <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
