@@ -56,13 +56,14 @@
 <table>
   <tr>
     <td colspan="2" valign="top">
-      <h3>🏠 Housing in Portugal — Bank Appraisals (Power BI)</h3>
-      <p>Power BI report on the median value per m² that banks assign to homes in Portugal's 308 municipalities, using INE open data from January 2024 to September 2026. Star-schema model, DAX measures with a minimum-sample rule, year-on-year municipal ranking and a custom shape map built from official boundaries. Also rebuilt as a bilingual (EN/PT) interactive web dashboard.</p>
-      <a href="https://github.com/rodhipolito/habitacao-pt"><img src="https://raw.githubusercontent.com/rodhipolito/habitacao-pt/main/docs/img/powerbi-ranking.png" alt="Power BI municipal ranking page" width="100%" /></a>
+      <h3>🏠 Housing in Portugal — Bank Appraisals vs Sale Prices (Power BI)</h3>
+      <p>Power BI report comparing what banks appraise homes at with what they actually sell for, across Portugal's 308 municipalities, using INE open data. Banks appraise 7.8% below the sale price nationally (13% in the typical municipality). Star-schema model with two fact tables, DAX measures with a minimum-sample rule, year-on-year municipal ranking and a custom shape map. Reproducible Python ETL from the INE API, plus a bilingual (EN/PT) web dashboard.</p>
+      <a href="https://github.com/rodhipolito/habitacao-pt"><img src="https://raw.githubusercontent.com/rodhipolito/habitacao-pt/main/docs/img/powerbi-vendas.png" alt="Power BI page comparing bank appraisals with sale prices" width="100%" /></a>
       <p>
         <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
         <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
         <img src="https://img.shields.io/badge/Power_Query-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3&logoColor=white" />
         <img src="https://img.shields.io/badge/INE_Open_Data-2E9EF7?style=flat-square" />
       </p>
